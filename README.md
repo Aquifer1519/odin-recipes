@@ -1,1 +1,1 @@
-This project is creating a basic website with HTML
+This project is creating a basic website with pages to recipes. Right now there is no CSS, just focused on improving layout and template with HTML
